@@ -1,0 +1,17 @@
+# Core LangChain dependencies
+langchain
+langchain-core
+langchain-openai
+langchain-community
+
+# Streamlit for frontend
+streamlit
+
+# Environment variable management
+python-dotenv
+
+# Optional: If you use Ollama and want to make sure it's installed
+ollama
+
+# Optional: Useful for general development
+requests
