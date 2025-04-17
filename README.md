@@ -24,5 +24,3 @@ A lightweight chatbot app built using [LangChain](https://www.langchain.com/), [
 
 ---
 
-## 📁 Project Structure
-
